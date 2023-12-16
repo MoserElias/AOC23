@@ -8,7 +8,6 @@ public class Day2 {
     public static void main(String[] args) {
         List<String> lines = new ArrayList<>();
 
-
         try {
             BufferedReader reader = new BufferedReader(new FileReader("src/Day2/sample.txt"));
             //BufferedReader reader = new BufferedReader(new FileReader("src/Day2/input.txt"));
